@@ -1,0 +1,10 @@
+Objectif : construire un système capable de reconnaître des chiffres manuscrits à l’aide de réseaux neuronaux artificiels
+
+Problème : les chiffres et les caractères écrits par les humains ont des formes, des tailles, des courbes et des styles différents, qui ne sont pas les mêmes pour deux personnes. C’est pourquoi la conversion de caractères ou de chiffres écrits en format numérique constituait autrefois un défi pour les ordinateurs. Ces derniers avaient également du mal à interpréter les textes des documents papier.
+
+Bien que la numérisation soit rapidement adoptée dans presque tous les secteurs, certains domaines requièrent encore des documents papier. C’est pourquoi nous avons besoin d’une technologie qui facilite ce processus pour les ordinateurs afin qu’ils puissent reconnaître les écrits humains sur papier.
+
+Handwritten Digit Recognition
+La solution : L’utilisation de réseaux neuronaux artificiels permet de construire un système de reconnaissance de chiffres manuscrits qui interprète avec précision les chiffres dessinés par une personne. Pour ce faire, un réseau neuronal à convolution (CNN) est utilisé pour reconnaître les chiffres sur un papier. Ce réseau dispose d’un ensemble de données HASYv2 comprenant 168 000 images de 369 classifications différentes.
+
+Application : Outre les papiers, un système de reconnaissance de chiffres manuscrits peut lire des symboles mathématiques et des styles d’écriture à partir de photos, d’appareils à écran tactile et d’autres sources. Ce logiciel a diverses applications telles que l’authentification de chèques bancaires, la lecture de formulaires remplis et la prise de notes rapide.
